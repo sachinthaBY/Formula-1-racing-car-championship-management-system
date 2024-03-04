@@ -1,4 +1,4 @@
-# Formula-1-racing-car-championship-management-system
+# Formula 1 racing car championship management system
 A formula 1 racing car championship management system using Java.
 
 - Create a new driver
